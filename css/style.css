@@ -1,0 +1,42 @@
+.carousel.carousel-item{
+	position: relative !important;
+}
+.black-overlay{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background: rgba(0,0,0,0.6);
+}
+
+.nav>li>a {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.leftright{
+	margin-bottom: 100px;
+}
+
+.carouselTitle{
+	margin-bottom: 350px;
+}
+
+.searchpos{
+	margin-bottom: 300px;
+}
+
+.length{
+	width: 600px;
+}
+
+.searchfont{
+	font-size: 54px;
+	margin-bottom: 50px;
+}
+
+body {
+  /* Set "my-sec-counter" to 0 */
+  counter-reset: my-sec-counter;
+}
